@@ -4,7 +4,7 @@ This is my solution to the [Results summary component challenge on Frontend Ment
 
 ## 📸 Screenshot
 
-![Project preview](./preview.jpg)
+![Project preview](./preview.png)
 
 
 ## 🛠️ Built With
